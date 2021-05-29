@@ -14,7 +14,7 @@
 	<name>bootcamp</name>
 	<description>Backend desenvolvido para o bootcamp Santander &amp; DIO</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
